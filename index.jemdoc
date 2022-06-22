@@ -2,29 +2,32 @@
 ==Jian Yang
 
 ~~~
-{}{img_left}{bio2.jpg}{}{189.12}{192.8} # {http://people.kth.se/~euhanna/}
-Undergraduate student,
-\n [http://www2.scut.edu.cn/software_en/ School of Software Engineering], \n[https://www.scut.edu.cn/en/ South China University of Technology(SCUT)]\n
+{}{img_left}{bio3.jpg}{}{183.25}{305.375} # {http://people.kth.se/~euhanna/}
+Incoming Ph.D. Student,
+\n Data Science and Analytics (DSA) Thrust, Information Hub,
+\n Hong Kong University of Science and Technology(Guangzhou)
+# Undergraduate student,
+# \n [http://www2.scut.edu.cn/software_en/ School of Software Engineering], \n[https://www.scut.edu.cn/en/ South China University of Technology(SCUT)]\n
 
-\n
-Address: B7-541, the University Town Campus \n
-South China University of Technology, Guangzhou, China \n 
+# \n
+# Address: B7-541, the University Town Campus \n
+# South China University of Technology, Guangzhou, China \n 
 
 Email: /yangjianpaul/ \[@\] foxmail \[DOT\] com
 ~~~
 
 == About me
-I am a 4th-year undergraduate student at the South China University of Technology studying software engineering. My supervisor is [https://www2.scut.edu.cn/software_en/2015/0724/c6649a97184/page.htm Prof. Jian Chen]. 
+I am an incoming Ph.D. student at the Hong Kong University of Science and Technology(Guangzhou) studying Data Science and Analytics. My supervisors are [https://www2.scut.edu.cn/software_en/2015/0724/c6649a97184/page.htm Prof. Jian Chen] and [https://zeyiwen.github.io/index.html Prof. Zeyi Wen]. 
 
 == Education
 - B.Eng., Software Engineering. South China University of Technology. 2018 - 2022
+- Ph.D. Student, Data Science and Analytics. Hong Kong University of Science and Technology (Guangzhou). 2022 - 2026
 
 == Research
 My research interests include 
-- Graph Representation Learning
-- Graph Unsupervised Learning
-- Community Detection
-- Conformal Prediction
+- Graph Learning
+- Machine Learning System
+- Data Mining
 
 # [research.html Find out more].
 == Awards
@@ -32,6 +35,7 @@ My research interests include
 . Silver Award. (13th) Guangdong Collegiate Programming Contest (GPCPC). 2019
 . First Prize. SCUT Software Developing Contest. 2019
 . Third Prize. SCUT Scholarship. 2019
+. Award of Excellent Degree Dissertations of South China University of Technology. 2022
 
 == Internship
 - Machine Learning Research Intern. Tencent. May 2021 - Oct 2021.
