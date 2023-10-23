@@ -17,7 +17,7 @@ Email: /yangjianpaul/ \[@\] foxmail \[DOT\] com
 ~~~
 
 == About me
-I am a Ph.D. student at the Hong Kong University of Science and Technology(Guangzhou) studying Data Science and Analytics. My supervisor is [https://zeyiwen.github.io/index.html Prof. Zeyi Wen]. During my undergraduate study, I was supervised by [https://www2.scut.edu.cn/software_en/2015/0724/c6649a97184/page.htm Prof. Jian Chen], [https://iemppu.github.io/ Prof. Yan Yan], and Dr. Zhibin Hu.
+I am a Ph.D. student at the Hong Kong University of Science and Technology(Guangzhou) studying Data Science and Analytics. My supervisor is [https://zeyiwen.github.io/index.html Prof. Zeyi Wen] and [https://sites.google.com/view/xiaofang-zhou Prof Xiaofang Zhou]. 
 
 == Education
 - B.Eng., Software Engineering. South China University of Technology. 2018 - 2022
@@ -29,6 +29,9 @@ My research interests include
 - Machine Learning Systems
 - Causal Discovery
 - Self-supervised Learning
+
+== Selected Papers
+. *Jian Yang*, Jiantong Jiang, Zeyi Wen, and Ajmal Mian. Parallel and Distributed Bayesian Network Structure Learning. IEEE Transactions on Parallel and Distributed Systems (TPDS), accepted in Oct 2023.
 
 # [research.html Find out more].
 == Awards
